@@ -1,0 +1,1 @@
+# lambda_function_kafka_trigger
