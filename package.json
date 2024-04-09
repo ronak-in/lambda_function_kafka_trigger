@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "aws-sdk": "^2.1594.0",
+    "kafkajs": "^2.2.4"
+  }
+}
